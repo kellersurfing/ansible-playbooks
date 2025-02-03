@@ -1,5 +1,5 @@
 ---
-- hosts: VMs
+- hosts: VMS
 
   become: true
   tasks:
